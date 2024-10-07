@@ -1,10 +1,11 @@
 # FungiDEX
 Aplicación para la identificación de hongos.
-DESCRIPCIÓN
-
+##Summary
 Esta herramienta está diseñada para ayudar a las personas a identificar diversas especies
 hongos de manera más fácil y precisa utilizando el poder de la inteligencia artificial y el
 aprendizaje automático.
+
+##Background
 Esto mediante el uso de la cámara de nuestro dispositivo móvil el cual analiza la composición de
 la foto que estemos tomando, en este caso basándose en la estructura física del hongo
 comparándola con una colección de imágenes provenientes de una base de datos. Esta base
